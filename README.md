@@ -1,10 +1,16 @@
 <div align="center">
 
 <!-- Enhanced Header with Gradient Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vishnu%20Tej&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vishnu%20Tej&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Solutions%20with%20Passion&descAlignY=55&descSize=18"/>
 
-<!-- Premium Animated Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8E%AF+Problem+Solver+%26+Innovator;%F0%9F%92%BB+Code+Craftsman;%F0%9F%8C%9F+Building+Digital+Experiences;%F0%9F%94%A5+Always+Learning+%26+Growing" alt="Dynamic Typing Animation" />
+<!-- Name Display (Constant) -->
+<h1 style="color: #2A6049; font-family: 'JetBrains Mono', monospace; font-size: 3rem; margin: 20px 0 10px 0; font-weight: bold;">
+  Vishnu Tej
+</h1>
+
+<!-- Animated Typing Effect for Roles -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=BF60C0&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;UI%2FUX+Designer;AI+Engineer" alt="Role Typing Animation" />
+
 
 <!-- Enhanced Status Badges with Rounded Styling -->
 <p>
