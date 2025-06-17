@@ -354,29 +354,7 @@ console.log("Let's build something amazing together!");
 
 ---
 
-<!-- GitHub Achievements & Trophies -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35">
-  GitHub Achievements & Trophies
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35">
-</h2>
 
-<div align="center">
-
-<!-- GitHub Trophies Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=vishnutej000&theme=discord&no-frame=true&no-bg=true&row=1&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-<!-- Achievement Metrics with Rounded Badges -->
-<p>
-<img src="https://img.shields.io/badge/Total%20Commits-1000%2B-4ECDC4?style=plastic&logo=git&logoColor=white&labelColor=4ECDC4" alt="Total Commits" />
-<img src="https://img.shields.io/badge/Stars%20Earned-500%2B-FFD93D?style=plastic&logo=star&logoColor=black&labelColor=FFD93D" alt="Stars Earned" />
-<img src="https://img.shields.io/badge/Repositories-50%2B-FF6B6B?style=plastic&logo=github&logoColor=white&labelColor=FF6B6B" alt="Repositories" />
-<img src="https://img.shields.io/badge/Pull%20Requests-200%2B-A8E6CF?style=plastic&logo=git-pull-request&logoColor=black&labelColor=A8E6CF" alt="Pull Requests" />
-</p>
-
-</div>
-
----
 
 <!-- Skills & Expertise Progress -->
 <h2 align="center">
@@ -462,10 +440,3 @@ Kubernetes       ██████████████▒▒▒▒▒▒ 70
 
 <div align="center">
 
-<!-- Activity Timeline -->
-<table>
-<tr>
-<td align="left">
-
-**🔥 Latest Development Activities:**
-- 🚀 **2025-06-16**: Pushed 15
