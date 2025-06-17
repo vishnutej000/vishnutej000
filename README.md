@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <!-- Name Display with Software Engineer Icon and Highlighting -->
 <h1 style="color: #2A6049; font-family: 'Fira Code', 'Courier New', monospace; font-size: 3.5rem; margin: 20px 0 10px 0; font-weight: 900; text-shadow: 2px 2px 4px rgba(42, 96, 73, 0.3); letter-spacing: 2px;">
