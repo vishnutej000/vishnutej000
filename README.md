@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Enhanced Header with Gradient Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vishnu%20Tej&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Solutions%20with%20Passion&descAlignY=55&descSize=18"/>
+
 
 <!-- Name Display (Constant) -->
 <h1 style="color: #2A6049; font-family: 'JetBrains Mono', monospace; font-size: 3rem; margin: 20px 0 10px 0; font-weight: bold;">
