@@ -2,41 +2,41 @@
 
 
 
-<!-- Name Display (Constant) -->
-<h1 style="color: #2A6049; font-family: 'JetBrains Mono', monospace; font-size: 3rem; margin: 20px 0 10px 0; font-weight: bold;">
+<!-- Name Display with Software Engineer Icon and Special Styling -->
+<h1 style="color: #2A6049; font-family: 'Fira Code', 'JetBrains Mono', monospace; font-size: 3.5rem; margin: 20px 0 10px 0; font-weight: 900; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+  <img src="https://img.icons8.com/fluency/48/000000/code.png" width="50" style="vertical-align: middle; margin-right: 15px;" alt="Software Engineer"/>
   Vishnu Tej
+  <img src="https://img.icons8.com/fluency/48/000000/code.png" width="50" style="vertical-align: middle; margin-left: 15px;" alt="Software Engineer"/>
 </h1>
 
-<!-- Animated Typing Effect for Roles -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=BF60C0&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;UI%2FUX+Designer;AI+Engineer" alt="Role Typing Animation" />
-
+<!-- Animated Typing Effect for Roles with Bold Font -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=BF60C0&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;UI%2FUX+Designer;AI+Engineer" alt="Role Typing Animation" />
 
 <!-- Enhanced Status Badges with Rounded Styling -->
-<p>
-  <img src="https://img.shields.io/badge/Profile%20Views-25.3K-FF6B6B?style=plastic&logo=eye&logoColor=white&labelColor=FF4757" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Followers-1.2K-4ECDC4?style=plastic&logo=people&logoColor=white&labelColor=26D0CE" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20for%20Work-Available-00D4AA?style=plastic&logo=briefcase&logoColor=white&labelColor=00B894" alt="Available" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-A29BFE?style=plastic&logo=code&logoColor=white&labelColor=6C5CE7" alt="Focus" />
+<p style="margin: 25px 0;">
+  <img src="https://komarev.com/ghpvc/?username=vishnutej000&label=Profile%20Views&color=FF6B6B&style=for-the-badge&abbreviated=true" alt="Profile Views" style="border-radius: 12px;" />
+  <img src="https://img.shields.io/github/followers/vishnutej000?label=Followers&style=for-the-badge&color=4ECDC4&labelColor=26D0CE" alt="Followers" style="border-radius: 12px; margin-left: 8px;" />
 </p>
 
-<!-- Premium Social Links with Rounded Edges -->
-<p>
-  <a href="https://linkedin.com/in/vishnutej000" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+<!-- Premium Social Links with Rounded Square Icons -->
+<p style="margin: 25px 0;">
+  <a href="https://linkedin.com/in/vishnutej000" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px;" />
   </a>
-  <a href="mailto:vishnutej000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=plastic&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+  <a href="mailto:vishnutej000@gmail.com" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 8px;" />
   </a>
-  <a href="https://vishnutej.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=plastic&logo=firefox&logoColor=white&labelColor=FF5722" alt="Portfolio" />
+  <a href="https://vishnutej.dev" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" style="border-radius: 8px;" />
   </a>
-  <a href="https://twitter.com/vishnutej000" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=plastic&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
+  <a href="https://twitter.com/vishnutej000" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 8px;" />
   </a>
-  <a href="https://discord.gg/vishnutej000" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=plastic&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
+  <a href="https://discord.gg/vishnutej000" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 8px;" />
   </a>
 </p>
+
 
 </div>
 
