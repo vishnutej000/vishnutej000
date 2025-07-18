@@ -431,12 +431,3 @@ Kubernetes       ██████████████▒▒▒▒▒▒ 70
 
 ---
 
-<!-- Recent GitHub Activity Feed -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35">
-  Recent GitHub Activity Feed
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-
