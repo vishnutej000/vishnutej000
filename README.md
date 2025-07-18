@@ -18,18 +18,16 @@
 
 <!-- Premium Social Links with Rounded Edges -->
 <p>
-  <a href="https://linkedin.com/in/vishnutej000" target="_blank">
+  <a href="https://linkedin.com/in/vishnutej0098" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="mailto:vishnutej000@gmail.com">
+  <a href="mailto:vishnutej2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
   </a>
-  <a href="https://vishnutej.dev" target="_blank">
+  <a href="https://vishnutej.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722" alt="Portfolio" />
   </a>
-  <a href="https://twitter.com/vishnutej000" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
-  </a>
+  
   <a href="https://discord.gg/vishnutej000" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
   </a>
